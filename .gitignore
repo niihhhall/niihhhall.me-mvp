@@ -1,10 +1,7 @@
+# node_modules/
 node_modules/
 .DS_Store
-*.png
-*.jpg
-*.jpeg
-*.webp
-*.svg
-public/Photos/
+# Temporary: Allowing project assets to be pushed to Vercel
+# You can add back specific ignores if needed, but the current broad ignores are breaking the site.
 dist/
 .env
